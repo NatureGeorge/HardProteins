@@ -55,3 +55,14 @@ Potential hard targets for protein structure prediction tasks.
   </tr>
 </table>
 </details>
+
+### a hypothetical protein (MJ0366) from Methanocaldococcus jannaschii revealed a novel topological arrangement of the knot fold
+
+> Thiruselvam, V., Kumarevel, T., Karthe, P., Kuramitsu, S., Yokoyama, S., & Ponnuswamy, M. N. (2017). Crystal structure analysis of a hypothetical protein (MJ0366) from Methanocaldococcus jannaschii revealed a novel topological arrangement of the knot fold. Biochemical and biophysical research communications, 482(2), 264–269. <https://doi.org/10.1016/j.bbrc.2016.11.052>
+
+* 2efv
+
+<details>
+<summary>view</summary>
+<img src="./figs/2efv.png">
+</details>
