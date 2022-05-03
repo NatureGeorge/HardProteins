@@ -64,5 +64,5 @@ Potential hard targets for protein structure prediction tasks.
 
 <details>
 <summary>view</summary>
-<img src="./figs/2efv.png">
+<img width="60%" src="./figs/2efv.png">
 </details>
